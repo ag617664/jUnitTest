@@ -10,7 +10,7 @@ public class testAddStrings {
 	public void test() {
 		jUnitFunctions junitString=new jUnitFunctions();
 		String result=junitString.add1("capstone", "project");
-		assertEquals("capstoneprojec",result);
+		assertEquals("capstoneproject",result);
 		
 	}
 
